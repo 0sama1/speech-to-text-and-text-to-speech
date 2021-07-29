@@ -2,7 +2,7 @@
 
 ملف(text-to-speech):
 
-يحول النص الصوت ويحفظ الصوت بملف output.mp3
+يحول النص الى الصوت ويحفظ الصوت بملف output.mp3
 
 ملف(speech-to-text):
 
